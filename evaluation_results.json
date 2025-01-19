@@ -1,0 +1,8 @@
+[
+    {
+        "query": "example scorer",
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+    }
+]
